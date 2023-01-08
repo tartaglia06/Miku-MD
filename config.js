@@ -7,20 +7,20 @@ global.autoReadAll = false
 global.antitags = true
 
 
-global.Owner = ['918101187835']
-global.OwnerNumber = ['918101187835']
-global.ownertag = ['918101187835']
+global.Owner = ['01146593819']
+global.OwnerNumber = ['01146593819']
+global.ownertag = ['01146593819']
 global.BotName = "𝙏𝘼𝙍𝙏𝘼𝙂𝙇𝙄𝘼✩"
 global.packname = "𝙏𝘼𝙍𝙏𝘼𝙂𝙇𝙄�-𝘽𝙊𝙏✩"
-global.author = "By: Fantox"
-global.OwnerName = "Fantox"
+global.author = "By: ₐⱼₐₓ"
+global.OwnerName = "ₐⱼₐₓ"
 global.BotSourceCode = "https://github.com/FantoX001/Miku-MD"
 global.SupportGroupLink = "https://chat.whatsapp.com/JcBzjRIxM5UHfuJbt0KrWt"
 global.sessionName = "session"
 
 
 
-global.prefa = ['-'] // Prefix ---  change it to anythong you want except @//
+global.prefa = ['!'] // Prefix ---  change it to anythong you want except @//
 
 
 global.location = "West Bengal, India"
